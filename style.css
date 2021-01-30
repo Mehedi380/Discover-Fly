@@ -22,7 +22,7 @@ nav {
 .container {
     padding: 30px !important;
 }
-@media (min-width: 770px) {
+@media (min-width: 768px) {
     .container {
         width: 1200px;
         max-width: 85%;
@@ -51,7 +51,7 @@ nav ul li a:hover, a.active {
     gap: 70px;
     align-items: center;
 }
-@media (max-width: 770px) {
+@media (max-width: 768px) {
     .main-content {
         grid-template-columns: 1fr;
         gap: 30px;
@@ -112,7 +112,7 @@ nav ul li a:hover, a.active {
     color: #fff;
     width: 80%;
 }
-@media (max-width: 770px) {
+@media (max-width: 768px) {
     .booking-content {
         width: 100%;
     }
